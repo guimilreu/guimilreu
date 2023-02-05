@@ -10,7 +10,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 	 /></a>
 </p>
 
-### 🙋‍♂️ A little bit about me
+## 🙋‍♂️ A little bit about me
 I'm a full stack developer from **Brazil** <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="15"/> who loves to discover new technologies and use creativity to create many projects! 
 
 - 🔭 I'm currently working on [Word Tools](https://github.com/guimilreu/word-tools).
@@ -18,7 +18,7 @@ I'm a full stack developer from **Brazil** <img src="https://hatscripts.github.i
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio: **Warning** In development.
 
-#### 🔥 Tech Stack
+### 🔥 Tech Stack
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
