@@ -16,7 +16,10 @@ I'm a full stack developer from **Brazil** <img src="https://hatscripts.github.i
 - 🔭 I'm currently working on [Word Tools](https://github.com/guimilreu/word-tools).
 - 🌱 I'm currently learning React & Git.
 - 💬 Ask me about anything an everything.
-- 🎯 Portfolio: **Warning** In development.
+- 
+ #### 🎯 Portfolio
+ > **Warning**
+ > In development.
 
 ### 🔥 Tech Stack
 <p>
