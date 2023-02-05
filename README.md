@@ -49,3 +49,5 @@ I'm a full stack developer from **Brazil** <img src="https://hatscripts.github.i
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
 </picture>
+
+![snake gif](https://github.com/guimilreu/guimilreu/blob/output/github-contribution-grid-snake.gif)
