@@ -13,13 +13,8 @@
 ## 🙋‍♂️ A little bit about me
 I'm a full stack developer from **Brazil** <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="15"/> who loves to discover new technologies and use creativity to create many projects! 
 
-- 🔭 I'm currently working on [Text Hack](https://github.com/guimilreu/text-hack-ai).
-- 🌱 I'm currently learning React & Git.
-- 💬 Ask me about anything an everything.
-
- #### 🎯 Portfolio
- > **Warning**<br />
- > In development.
+ #### 🎯 GM Dev
+ > [https://discord.gg/nBteuHPYgg](https://discord.gg/nBteuHPYgg)
 
 ### 🔥 Tech Stack
 <p>
